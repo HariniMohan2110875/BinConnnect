@@ -21,4 +21,15 @@ BinConnect is a smart waste management system that monitors the fill levels of g
 - **Algorithms:** A* and Dijkstra’s for shortest path calculation
 - **Programming Languages:** Python, JavaScript
 
+## IOT SmartBin setup
 ![bin](https://github.com/user-attachments/assets/803a5f11-6484-4784-a016-83a5ccad4e77)
+
+## App interface for Truck driver's navigation
+![Screenshot (387)](https://github.com/user-attachments/assets/7fd9c51d-43d8-4780-8080-7c798ad03712)
+
+![Screenshot (388)](https://github.com/user-attachments/assets/bea93bbc-5201-47f2-85f9-a6f1dce24d59)
+
+
+
+
+
