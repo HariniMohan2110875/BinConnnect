@@ -21,3 +21,4 @@ BinConnect is a smart waste management system that monitors the fill levels of g
 - **Algorithms:** A* and Dijkstra’s for shortest path calculation
 - **Programming Languages:** Python, JavaScript
 
+![bin](https://github.com/user-attachments/assets/803a5f11-6484-4784-a016-83a5ccad4e77)
